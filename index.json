@@ -1,0 +1,11 @@
+{
+  "org": "rust-lang",
+  "repo": "rustc-hash",
+  "versions": [
+    {
+      "commit": "f16da569fcb867fa1bc3b5dba18c9b8f7ca99483",
+      "tag": "",
+      "parsed_at": "2026-11-09T17:47:50.220834+00:00"
+    }
+  ]
+}
