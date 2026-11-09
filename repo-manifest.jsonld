@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rust-lang/rustc-hash/commit/f16da569fcb867fa1bc3b5dba18c9b8f7ca99483",
       "git:hexsha": "f16da569fcb867fa1bc3b5dba18c9b8f7ca99483",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rust-lang/rustc-hash/commit/0773e83fddff56670e107134dbd9f12e6b6ecdf4",
