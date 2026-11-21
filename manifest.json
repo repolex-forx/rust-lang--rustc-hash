@@ -52,6 +52,18 @@
       ],
       "ast": [
         "aggregate/ast/fdb275c8a0135403067ce1c4be8e97e53c473764/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/fdb275c8a0135403067ce1c4be8e97e53c473764.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
