@@ -64,7 +64,9 @@
           "githubUrl": "https://github.com/rust-random/rand",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/fdb275c8a0135403067ce1c4be8e97e53c473764/chunk-001.nq.gz",
+      "dep": "dep/fdb275c8a0135403067ce1c4be8e97e53c473764.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
