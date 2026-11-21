@@ -3,6 +3,11 @@
   "repo": "rustc-hash",
   "versions": [
     {
+      "commit": "fdb275c8a0135403067ce1c4be8e97e53c473764",
+      "tag": "v2.1.2",
+      "parsed_at": "2026-11-21T23:08:57.560644+00:00"
+    },
+    {
       "commit": "f16da569fcb867fa1bc3b5dba18c9b8f7ca99483",
       "tag": "",
       "parsed_at": "2026-11-09T17:47:50.220834+00:00"
