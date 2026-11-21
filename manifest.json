@@ -25,6 +25,31 @@
         "aggregate/ast/f16da569fcb867fa1bc3b5dba18c9b8f7ca99483/chunk-001.nq.gz"
       ],
       "repolex": "aggregate/repolex/f16da569fcb867fa1bc3b5dba18c9b8f7ca99483/chunk-001.nq.gz"
+    },
+    {
+      "commit": "fdb275c8a0135403067ce1c4be8e97e53c473764",
+      "parsed_at": "2026-11-21T23:00:50.358273+00:00",
+      "tag": "v2.1.2",
+      "filetree": "filetree/fdb275c8a0135403067ce1c4be8e97e53c473764.nq.gz",
+      "blobs": [
+        "blob/468cd79a8f6e50f2b24558c41ed3abafa5bb40ae.nq.gz",
+        "blob/d6d774281213a9fd2e1f1fc8b2271bfe56062063.nq.gz",
+        "blob/c8c35a0b1a4da9753b7bff7adb45ae249864a698.nq.gz",
+        "blob/bcac3455ac90d6e48533eb77c417d6f00f64a94a.nq.gz",
+        "blob/c05f916dffd278440dee56871fc456cd25f1ca54.nq.gz",
+        "blob/e84190625939e81c859cc0f2ca6b5c634fe93a11.nq.gz",
+        "blob/b3270c31bdecdf7c41b1926898c0d29e5412a61a.nq.gz",
+        "blob/a7e77cb28d386ec6eddeaabf441f91473ddefa1e.nq.gz",
+        "blob/9230d4e77362f2e705ab36e33b8c73f39d1c3dac.nq.gz",
+        "blob/72cc57ccb6cb1befdb4ea3c99599b0cd3db441a3.nq.gz",
+        "blob/84c47ed70dfbfe643b6552613fccf90b0f06aa1f.nq.gz",
+        "blob/e205064e5b26e877465ee5c53331b0f49c728e0d.nq.gz",
+        "blob/5f151c9390dc6df01bea6a5e2adb4df7faceebc9.nq.gz",
+        "blob/aba98d31f58a80e1bf5a2ac607a1bb14da74e7b5.nq.gz",
+        "blob/0a019cbfb00afd735ab6b9a220cc253f8a809a1d.nq.gz",
+        "blob/6d76b7c163afe4bc858c3b4af5e393d59235ee6f.nq.gz",
+        "blob/ba5f3635446efa6b537c6580738a33423e840aff.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
